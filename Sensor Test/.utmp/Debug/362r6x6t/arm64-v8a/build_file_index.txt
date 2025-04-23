@@ -1,0 +1,2 @@
+C:\Users\Chris\OneDrive\AAU\2. Semester\PMA\SensorTest\Sensor Test\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\Chris\OneDrive\AAU\2. Semester\PMA\SensorTest\Sensor Test\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

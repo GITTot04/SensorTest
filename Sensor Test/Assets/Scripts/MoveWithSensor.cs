@@ -23,8 +23,8 @@ public class MoveWithSensor : MonoBehaviour
         
         if (AttitudeSensor.current != null /*&& !AttitudeSensor.current.enabled*/)
         {
-            //InputSystem.EnableDevice(AttitudeSensor.current);
-            //Debug.Log(":(");
+            InputSystem.EnableDevice(AttitudeSensor.current);
+            Debug.Log(":(");
         }
         
     }
