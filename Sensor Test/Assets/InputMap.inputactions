@@ -1,0 +1,45 @@
+{
+    "name": "InputMap",
+    "maps": [
+        {
+            "name": "FloorPlan",
+            "id": "de23df75-441c-4584-8e83-9fe1a915aec0",
+            "actions": [
+                {
+                    "name": "Rotate",
+                    "type": "Value",
+                    "id": "59ac7897-be8b-4f7b-b35f-8948477147ae",
+                    "expectedControlType": "Quaternion",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "789cd024-48c2-4a92-b92d-bc5ce6afbdbc",
+                    "path": "<AttitudeSensor>/attitude",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Rotate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5b694d2b-25bb-43ed-af92-3554dac3e488",
+                    "path": "<Sensor>/attitude",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Rotate",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
